@@ -7,5 +7,6 @@ In the first task, I explored the classic Titanic dataset to predict passenger s
 Task 2: Movie Rating Prediction
 Task 2 involved predicting movie ratings, a fascinating challenge that allowed me to dive into recommendation systems. Through data preprocessing and model building, I aimed to create a predictive model for movie ratings. You can explore the code and details on GitHub.
 
-Conclusion
+Conclusion:
+
 The Codsoft Data Science Internship has been an enriching experience, providing me with the skills and knowledge to tackle real-world data challenges. I am grateful for the opportunity to contribute to meaningful projects and look forward to applying these skills in future endeavors.
